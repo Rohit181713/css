@@ -1,0 +1,35 @@
+.heading{
+	text-align: center;
+	background-color: white;
+}
+
+#h1{
+	color: blue;
+	font-size: 25px;
+}
+
+#h2{
+	color: black;
+	font-size: 25px;
+}
+
+
+
+.nav{
+	background-color: whitesmoke;
+	
+}
+
+.table{border:1px;
+	style="border-collapse: separate;
+}
+td{
+	width: 400px;
+}
+
+.last{
+	height: 400px;
+	width: 400px;
+	float: right;
+	text-align: right;
+}

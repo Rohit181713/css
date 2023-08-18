@@ -1,0 +1,38 @@
+p{
+	color: blue;
+	font-family: cursive;
+	font-size: 15px;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: green;
+}
+*{
+	font-size: 25px;
+	font-family: calbri;
+	color: orange;
+}
+
+input[type="text"]{
+	color: red;
+}
+input[type="number"]{
+	color: green;
+}
+input[type ="email"]{
+	color: blue;
+}
+
+a:hover{
+	color: red;
+}
+
+div:hover{
+	height: 300px;
+	width: 300px;
+	background-color: black;
+}
+a:active{
+	color: yellow;
+}
